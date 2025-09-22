@@ -3,6 +3,8 @@
 ###  S3eccis.site
 Please visit https://s3eccis.site to review a demo website of s3eccis.
 
+tips: click the icon on 3D model to get the device real-time data!
+
 ###  API document of s3eccis Backend
 visit https://s3eccis.site:9099/doc.html 
 tips: Api is in Chinese due 
